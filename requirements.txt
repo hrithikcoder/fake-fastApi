@@ -13,6 +13,8 @@ python-dateutil
 pytz
 scikit-learn
 
+scipy.sparse._csr
+
 six
 threadpoolctl
 tzdata
