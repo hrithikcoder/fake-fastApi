@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 
 model=pickle.load(open("fakenews_model.pkl",'rb'))
-vector=pickle.load(open("vectorizer.pkl",'rb'))
+#vector=pickle.load(open("vectorizer.pkl",'rb'))
 
 
 
